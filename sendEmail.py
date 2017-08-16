@@ -2,8 +2,8 @@ import smtplib
 to='703353105@qq.com'
 
 
-mail_user='915932312@qq.com'
-mail_pwd='dgobkatgefqfbeeb'
+mail_user='邮箱帐号'
+mail_pwd='不是密码，授权码，授权码，授权码'
 smtpserver=smtplib.SMTP("smtp.qq.com",587)
 smtpserver.ehlo()
 smtpserver.starttls()
